@@ -3,4 +3,4 @@ project(day2 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(day2 main.c)
+add_executable(day2 part1.c)
